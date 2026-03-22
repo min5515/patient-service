@@ -1,0 +1,5 @@
+com\example\patientservice\repository\PatientRepository.class
+com\example\patientservice\PatientServiceApplication.class
+com\example\patientservice\config\SecurityConfig.class
+com\example\patientservice\model\Patient.class
+com\example\patientservice\controller\PatientController.class
